@@ -16,6 +16,7 @@ namespace WinFormsGitHub
         int iVal123 = 0;
         int iVal1234 = 0;
         int iVal12345 = 0;
+        int iVal123456 = 0;
 
         public Form1()
         {
