@@ -19,7 +19,7 @@ namespace WinFormsGitHub
         int iVal123456 = 0;
         int iVal1234567 = 0;
         int iVal1234568 = 0;
-
+        int iVal11 = 0;
         public Form1()
         {
             InitializeComponent();
