@@ -12,6 +12,7 @@ namespace WinFormsGitHub
 {
     public partial class Form1 : Form
     {
+        int iVal = 0;
         public Form1()
         {
             InitializeComponent();
